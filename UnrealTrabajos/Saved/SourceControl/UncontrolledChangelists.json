@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/ThirdPerson/Maps/M_Glass.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/ThirdPerson/Maps/glass.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QQ/1OC3KP2B0GAT2U9GTIVW66.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GY/V1X4J009O0YO02RM7PDZ45.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IT/KPYVTVEETNZRQ7IAU63S4E.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/ThirdPerson/Maps/M_Iridiscente.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/ThirdPerson/Maps/M_CameraVector.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/ThirdPerson/Maps/M_Glass1.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/ThirdPerson/Maps/Water_Normal.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/ThirdPerson/Maps/WP_UserInterface.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/ThirdPerson/Maps/bunny.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"D:/Unreal/UnrealTrabajos/UnrealTrabajos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+			]
+		}
+	]
+}
